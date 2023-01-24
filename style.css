@@ -1,0 +1,13 @@
+ #home-section {
+    background-image: url(banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 550px;
+    width: 100%;
+
+ }
+
+ #banner-title {
+    font-size: 50px;
+    font-weight: 600;
+ }
